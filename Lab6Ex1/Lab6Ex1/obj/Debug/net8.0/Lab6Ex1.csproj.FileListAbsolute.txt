@@ -1,0 +1,14 @@
+C:\Users\Ionut\source\repos\Lab6Ex1\Lab6Ex1\obj\Debug\net8.0\Lab6Ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ionut\source\repos\Lab6Ex1\Lab6Ex1\obj\Debug\net8.0\Lab6Ex1.AssemblyInfoInputs.cache
+C:\Users\Ionut\source\repos\Lab6Ex1\Lab6Ex1\obj\Debug\net8.0\Lab6Ex1.AssemblyInfo.cs
+C:\Users\Ionut\source\repos\Lab6Ex1\Lab6Ex1\obj\Debug\net8.0\Lab6Ex1.csproj.CoreCompileInputs.cache
+C:\Users\Ionut\source\repos\Lab6Ex1\Lab6Ex1\bin\Debug\net8.0\Lab6Ex1.exe
+C:\Users\Ionut\source\repos\Lab6Ex1\Lab6Ex1\bin\Debug\net8.0\Lab6Ex1.deps.json
+C:\Users\Ionut\source\repos\Lab6Ex1\Lab6Ex1\bin\Debug\net8.0\Lab6Ex1.runtimeconfig.json
+C:\Users\Ionut\source\repos\Lab6Ex1\Lab6Ex1\bin\Debug\net8.0\Lab6Ex1.dll
+C:\Users\Ionut\source\repos\Lab6Ex1\Lab6Ex1\bin\Debug\net8.0\Lab6Ex1.pdb
+C:\Users\Ionut\source\repos\Lab6Ex1\Lab6Ex1\obj\Debug\net8.0\Lab6Ex1.dll
+C:\Users\Ionut\source\repos\Lab6Ex1\Lab6Ex1\obj\Debug\net8.0\refint\Lab6Ex1.dll
+C:\Users\Ionut\source\repos\Lab6Ex1\Lab6Ex1\obj\Debug\net8.0\Lab6Ex1.pdb
+C:\Users\Ionut\source\repos\Lab6Ex1\Lab6Ex1\obj\Debug\net8.0\Lab6Ex1.genruntimeconfig.cache
+C:\Users\Ionut\source\repos\Lab6Ex1\Lab6Ex1\obj\Debug\net8.0\ref\Lab6Ex1.dll
